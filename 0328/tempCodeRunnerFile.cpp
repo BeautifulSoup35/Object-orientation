@@ -1,1 +1,1 @@
-count++;
+cin.ignore();
